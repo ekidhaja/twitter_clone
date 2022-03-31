@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a twitter clone with the basic features. You can make a tweet, like, comment. More features like follow, search, Direct messaging will be added in the future.
+This is a twitter clone with the basic features. You can make a tweet, like, comment. It has an authentication system in place using Google auth provider. You have to signin with you google account to use the app. More features like follow, search, Direct messaging will be added in the future.
 
 ## Tech Stack
 
